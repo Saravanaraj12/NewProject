@@ -7,6 +7,7 @@ public class UseSportsCar {
 		c.brand="nissan";
 		c.color="black";
 		System.out.println("Car Name : "+c.brand+"\n"+"color : "+c.color+"\n"+"Mileage : "+c.getMileage(60)+"\n"+"Engine cc : "+c.showEngine(250)+"\n"+"Speed : "+c.showSpeed(250));
+		System.out.println("updated");
 	}
 
 }
